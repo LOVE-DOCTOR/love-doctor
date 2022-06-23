@@ -37,8 +37,10 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
    Visit my repository to see my past projects
 
 ## 📋 Goals
-1. Learn to use Django
+1. Learn Django
 2. Level up my skills in python from intermediate to advanced
+3. Acquire software engineering skills with Data Structures and Algorithms
+
 
 ## 😄 Core Interests
 1. Natural Language Processing
@@ -50,6 +52,9 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 2. 🕕 Time management 
 3. 👬 Teamwork 
 4. 👮‍♂️ Problem-solving
+
+## 🔎 Looking for
+1. Internship opportunities.
 
 ## 👨‍💻 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
