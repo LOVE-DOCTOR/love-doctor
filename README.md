@@ -59,7 +59,7 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ## 📳 Contact Me
 Do you see me as a great addition to your team?
 1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) 
-   - [**Send a Message**](wa.me/2349070766308")
+   - [**Send a Message**](https://wa.me/2349070766308")
 
 
 ## 👨‍💻 Github Stats
