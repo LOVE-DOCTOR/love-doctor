@@ -21,13 +21,20 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Heroku](https://img.shields.io/badge/-Heroku-lightgrey?style=plastic&logo=heroku)
 ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-lightgrey?style=plastic&logo=sklearn)
 
-1. Programming with python
-2. Data Analysis with Pandas, Seaborn, Matplotlib and Plotly
-3. Data Cleaning with Pandas
-4. Building web applications with streamlit
-5. Model Deployment with Streamlit and Heroku
+1. Programming
+   > Python
+2. Data Analysis
+   > Pandas, Seaborn, Matplotlib, Plotly
+3. Data Cleaning
+   > Pandas
+4. Building web applications
+   > Streamlit
+5. Model Deployment
+   > Streamlit Sharing, Heroku
 6. Using Scikit-Learn Framework to build machine learning models
 7. Using Keras to build deep learning models.
+8. Version Control
+   > Git and GitHub 
 
 ## Projects
 1. Currently working on my library - MultiTrain
