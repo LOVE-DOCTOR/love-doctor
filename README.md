@@ -7,9 +7,9 @@ He is very enthusiastic about coding, learning new things, and expanding his ski
 Samson enjoys working on a library he's developing for machine learning, MultiTrain.
 
 ## 🎉 Skills
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python) 
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=flat-square&logo=tensorflow)
+![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python) 
+![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-grey?style=flat-square&logo=tensorflow)
 1. Programming with python
 2. Data Analysis with Pandas, Seaborn, Matplotlib and Plotly
 3. Data Cleaning with Pandas
