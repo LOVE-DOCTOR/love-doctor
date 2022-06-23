@@ -56,6 +56,11 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ## 🔎 Looking for
 1. Internship opportunities.
 
+## 📳 Contact Me
+Do you see me as a great addition to your team?
+1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) - wa.me/2349070766308
+
+
 ## 👨‍💻 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
 
