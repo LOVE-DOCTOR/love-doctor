@@ -15,6 +15,12 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=plastic&logo=seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=plastic&logo=matplotlib)
 ![Plotly](https://img.shields.io/badge/-Plotly-lightgrey?style=plastic&logo=plotly)
+![Streamlit](https://img.shields.io/badge/-Streamlit-lightgrey?style=plastic&logo=Streamlit) 
+![Heroku](https://img.shields.io/badge/-Heroku-lightgrey?style=plastic&logo=heroku)
+![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-lightgrey?style=plastic&logo=scikit-learn)
+
+
+1. Programming with python
 1. Programming with python
 1. Programming with python
 2. Data Analysis with Pandas, Seaborn, Matplotlib and Plotly
@@ -44,3 +50,5 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 
 ## 📖 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVE-DOCTOR&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR)
