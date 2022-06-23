@@ -1,5 +1,6 @@
 # Hi there! My name is Samson.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR)
+
 Who is Samson❔
 
 Samson is a bright and inquisitive machine learning engineer.
