@@ -1,8 +1,8 @@
 # Hi there! My name is Samson.
 Who is Samson❔
 
-Samson is an intelligent and intellectual curious machine learning engineer. 
-He has a great passion for coding, learning new things and improving upon his set of skills.
+Samson is a bright and inquisitive machine learning engineer.
+He is very enthusiastic about coding, learning new things, and expanding his skill set.
 
 Samson enjoys working on a library he's developing for machine learning, MultiTrain.
 
