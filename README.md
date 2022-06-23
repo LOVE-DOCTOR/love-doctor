@@ -10,5 +10,8 @@ My abilities are:
 3. Teamwork 
 4. Problem-solving
 
+## 👨‍💻 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
+
+## 📖 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVE-DOCTOR&hide=TeX&layout=compact)
