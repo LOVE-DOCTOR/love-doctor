@@ -21,9 +21,6 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Heroku](https://img.shields.io/badge/-Heroku-lightgrey?style=plastic&logo=heroku)
 ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-lightgrey?style=plastic&logo=sklearn)
 
-
-1. Programming with python
-1. Programming with python
 1. Programming with python
 2. Data Analysis with Pandas, Seaborn, Matplotlib and Plotly
 3. Data Cleaning with Pandas
@@ -31,6 +28,13 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 5. Model Deployment with Streamlit and Heroku
 6. Using Scikit-Learn Framework to build machine learning models
 7. Using Keras to build deep learning models.
+
+## Projects
+1. Currently working on my library - MultiTrain
+   ⬇️
+   https://github.com/LOVE-DOCTOR/train-with-models
+
+   Visit my repository to see my past projects
 
 ## 📋 Goals
 1. Learn to use Django
@@ -42,10 +46,10 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 3. Deep Reinforcement Learning
 
 ## 💪 Abilities
-1. Effective communication 
-2. Time management 
-3. Teamwork 
-4. Problem-solving
+1. 📞 Effective communication 
+2. 🕕 Time management 
+3. 👬 Teamwork 
+4. 👮‍♂️ Problem-solving
 
 ## 👨‍💻 Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
