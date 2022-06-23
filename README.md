@@ -77,6 +77,8 @@ Do you see me as a great addition to your team?
    > [**Send a Message**](https://wa.me/2349070766308)
 2. ![Gmail](https://img.shields.io/badge/-Gmail-white?style=social&logo=gmail)
    > <a href="mailto:tunexo885@gmail.com">**Send an Email**</a>
+3. ![Twitter](https://img.shields.io/badge/-Twitter-white?style=social&logo=twitter)
+   > [**Send a DM**](https://twitter.com/samsonshittu51?t=4KRVUYE4kdjvDb-pbQN_rQ&s=09)
      
 
 ## 👨‍💻 Github Stats:
