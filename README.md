@@ -56,12 +56,20 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ## 🔎 Looking for
 1. Internship opportunities.
 
+## 🎮 Hobbies
+1. Listening to music
+2. Watching movies
+   > Genres: Horror, Sci-Fi and adventure
+3. Photography
+   > Portrait: outdoor
+   > Nature
+
 ## 📳 Contact Me
 Do you see me as a great addition to your team?
 1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) 
    - [**Send a Message**](https://wa.me/2349070766308)
 2. ![Gmail](https://img.shields.io/badge/-Gmail-white?style=social&logo=gmail)
-   - [**Send an email**](https://mailto:tunexo885@gmail.com)
+   - [**Send an Email**](https://mailto:tunexo885@gmail.com)
 
 ## 👨‍💻 Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
