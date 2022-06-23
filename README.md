@@ -1,6 +1,8 @@
 # Hi there! My name is Samson.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR)
 
+Let's journey into the life of Samson as a programmer.
+
 Who is Samson❔
 
 Samson is a bright and inquisitive machine learning engineer.
@@ -63,13 +65,17 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ## 🔎 Looking for
 1. Internship opportunities.
 
-## 🎮 Hobbies
+## 🎮 Hobbies/Other Interests
 1. Listening to music
 2. Watching movies
    > Genres: Horror, Sci-Fi and adventure
 3. Photography
    > Portrait: outdoor
    > Nature
+4. Poetry
+   > Love, Sad, Happy
+5. Writing
+   > Articles, Fiction
 
 ## 📳 Contact Me
 Do you see me as a great addition to your team?
