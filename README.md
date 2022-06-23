@@ -10,6 +10,7 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=Python) 
 ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-grey?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-grey?style=flat-square&logo=keras)
 1. Programming with python
 2. Data Analysis with Pandas, Seaborn, Matplotlib and Plotly
 3. Data Cleaning with Pandas
