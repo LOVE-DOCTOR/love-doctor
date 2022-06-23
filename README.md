@@ -1,8 +1,28 @@
 # Hi there! My name is Samson.
-I am a Machine Learning Engineer with a level of expertise in Python programming, Python for Machine Learning, Data Cleaning, Data Modeling, and creating Machine Learning Models with ML frameworks such as scikit-learn and Keras.
+Who is Samson❔
 
+Samson is an intelligent and intellectual curious machine learning engineer. 
+He has a great passion for coding, learning new things and improving upon his set of skills.
 
-I am highly interested in Natural Language Processing and Reinforcement Learning, and I am always eager to learn new things.
+Samson enjoys working on a library he's developing for machine learning, MultiTrain.
+
+## 🎉 Skills
+1. Programming with python
+2. Data Analysis with Pandas, Seaborn, Matplotlib and Plotly
+3. Data Cleaning with Pandas
+4. Building web applications with streamlit
+5. Model Deployment with Streamlit and Heroku
+6. Using Scikit-Learn Framework to build machine learning models
+7. Using Keras to build deep learning models.
+
+## 📋 Goals
+1. Learn to use Django
+2. Level up my skills in python from intermediate to advanced
+
+## 😄 Core Interests
+1. Natural Language Processing
+2. Reinforcement Learning
+3. Deep Reinforcement Learning
 
 ## 💪 Abilities
 1. Effective communication 
