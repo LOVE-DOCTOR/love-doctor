@@ -19,7 +19,7 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Plotly](https://img.shields.io/badge/-Plotly-lightgrey?style=plastic&logo=plotly)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-lightgrey?style=plastic&logo=Streamlit) 
 ![Heroku](https://img.shields.io/badge/-Heroku-lightgrey?style=plastic&logo=heroku)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-lightgrey?style=plastic&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/-Sklearn-lightgrey?style=plastic&logo=sklearn)
 
 
 1. Programming with python
