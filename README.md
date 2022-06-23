@@ -1,4 +1,5 @@
 # Hi there! My name is Samson.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR
 Who is Samson❔
 
 Samson is a bright and inquisitive machine learning engineer.
@@ -17,7 +18,7 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Plotly](https://img.shields.io/badge/-Plotly-lightgrey?style=plastic&logo=plotly)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-lightgrey?style=plastic&logo=Streamlit) 
 ![Heroku](https://img.shields.io/badge/-Heroku-lightgrey?style=plastic&logo=heroku)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-lightgrey?style=plastic&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-lightgrey?style=plastic&logo=scikit-learn)
 
 
 1. Programming with python
@@ -51,4 +52,4 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ## 📖 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVE-DOCTOR&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR)
+
