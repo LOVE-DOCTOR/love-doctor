@@ -21,7 +21,7 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
 ![Plotly](https://img.shields.io/badge/-Plotly-white?style=plastic&logo=plotly&logoColor=blue)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=plastic&logo=Streamlit) 
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=plastic&logo=heroku)
-![Scikit-Learn](https://img.shields.io/badge/-Sklearn-lightgrey?style=plastic&logo=sklearn)
+![scikit-Learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 
 1. Programming
@@ -99,4 +99,4 @@ Do you see me as a great addition to your team?
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LOVE-DOCTOR&theme=dark)](https://git.io/streak-stats)
 
 ## ☀️ Recent Activities
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}
+[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=LOVE-DOCTOR&theme=github)](https://github.com/LOVE-DOCTOR/github-readme-activity-graph)
