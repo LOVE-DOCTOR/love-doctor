@@ -1,5 +1,6 @@
 # Hi there! My name is Samson.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LOVE-DOCTOR.LOVE-DOCTOR)
+![Visitor Badge](https://komarev.com/ghpvc/?username=LOVE-DOCTOR&color=red&style=plastic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LOVE-DOCTOR)](https://github.com/ryo-ma/github-profile-trophy)
 
 Let's journey into the life of Samson as a programmer.
 
@@ -9,6 +10,33 @@ Samson is a bright and inquisitive machine learning engineer.
 He is very enthusiastic about coding, learning new things, and expanding his skill set.
 
 Samson enjoys working on a library he's developing for machine learning, MultiTrain.
+
+```python
+
+class Samson:
+    def __init__(self):
+        self.age = 19
+        self.nationality = "Nigerian"
+        self.name = "Shittu Samson"
+        self.languages = ["English", "Yoruba"]
+        self.religion = ["Christianity"]
+        self.program_lang = ["Python"]
+    
+    def require_him(self):
+        him = {
+                 'name': self.name,
+                 'age': self.age,
+                 'nationality': self.nationality,
+                 'languages': self.languages,
+                 'religion': self.religion,
+                 'programming_language': self.program_lang
+              }
+        print(him)
+
+if __name__ == "__main__":
+    me = Samson()
+    me.require_him()
+```
 
 ## 🎉 Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) 
@@ -40,8 +68,9 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
    > Git and GitHub 
 
 ## Projects
-1. Currently working on my library
-   >[MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models)
+1. Currently working on on building a machine learning library
+   > In order to make testing several machine learning models on a dataset easier, [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models) was developed. Using [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models), you may retrieve a dataframe with all machine learning models available for the task and the outcomes of their evaluation metrics with only one line of code.
+ 
 
    Visit my repository to see my past projects
 
