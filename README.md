@@ -95,4 +95,7 @@ Do you see me as a great addition to your team?
 ## 📖 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVE-DOCTOR&hide=TeX&layout=compact)
 
+## 🌠 Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LOVE-DOCTOR&theme=dark)](https://git.io/streak-stats)
+
 
