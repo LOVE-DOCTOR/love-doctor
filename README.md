@@ -87,26 +87,10 @@ if __name__ == "__main__":
 2. Reinforcement Learning
 3. Deep Reinforcement Learning
 
-## 💪 Abilities
-1. 📞 Effective communication 
-2. 🕕 Time management 
-3. 👬 Teamwork 
-4. 👮‍♂️ Problem-solving
 
 ## 🔎 Looking for
 1. Internship opportunities.
 
-## 🎮 Hobbies/Other Interests
-1. Listening to music
-2. Watching movies
-   > Genres: Horror, Sci-Fi and adventure
-3. Photography
-   > Portrait: outdoor
-   > Nature
-4. Poetry
-   > Love, Sad, Happy
-5. Writing
-   > Articles, Fiction
 
 ## 📳 Contact Me
 Do you see me as a great addition to your team?
