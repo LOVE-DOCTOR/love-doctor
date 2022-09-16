@@ -1,6 +1,6 @@
 # Hi there! My name is Samson.
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LOVE-DOCTOR&color=red&style=plastic)
-[![trophy](https://github-profile-trophy.vercel.app/?username=LOVE-DOCTOR)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LOVE-DOCTOR)](https://github.com/LOVE-DOCTOR/github-profile-trophy)
 
 Samson is a machine learning engineer with a wide array of skills which he uses to build and deploy machine learning models.
 
