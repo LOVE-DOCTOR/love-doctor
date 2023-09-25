@@ -2,9 +2,9 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LOVE-DOCTOR&color=red&style=plastic)
 [![trophy](https://github-profile-trophy.vercel.app/?username=LOVE-DOCTOR)](https://github.com/LOVE-DOCTOR/github-profile-trophy)
 
-Samson is a machine learning engineer with a wide array of skills which he uses to build and deploy machine learning models.
+Samson, is an experienced machine learning engineer who uses his extensive skill set to build and deploy machine learning models.
 
-Samson enjoys working on a library he's developing for machine learning, MultiTrain.
+He finds genuine enthusiasm in taking on novel and stimulating projects that not only put his skills to the test but also drive continuous improvement and growth.
 
 
 ## 🎉 Skills
@@ -40,26 +40,25 @@ Samson enjoys working on a library he's developing for machine learning, MultiTr
    > Flask, FastAPI
 
 ## Projects
-1. Currently working on on building a machine learning library
+1. Built a library
    > In order to make testing several machine learning models on a dataset easier, [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models) was developed. Using [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models), you may retrieve a dataframe with all machine learning models available for the task and the outcomes of their evaluation metrics with only one line of code.
  
 
-
 ## 📋 Goals
    ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-1. Level up my skills in python from intermediate to advanced.
+1. Continually improve on myself by working on more projects
 
 
 ## 😄 Core Interests
 1. Natural Language Processing
-2. Reinforcement Learning
-3. Deep Reinforcement Learning
-
+2. Conmputer Vision
+3. Reinforcement Learning
+4. Deep Reinforcement Learning
 
 ## 🔎 Looking for
-1. Internship opportunities.
+1. Fulltime Job opportunities.
 2. Co-Founder positions
-3. Full time jobs
+3. Freelancing Job opportunities
 
 
 ## 📳 Contact Me
