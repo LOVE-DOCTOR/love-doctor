@@ -51,7 +51,7 @@ He finds genuine enthusiasm in taking on novel and stimulating projects that not
 
 ## 😄 Core Interests
 1. Natural Language Processing
-2. Conmputer Vision
+2. Computer Vision
 3. Reinforcement Learning
 4. Deep Reinforcement Learning
 
